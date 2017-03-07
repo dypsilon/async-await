@@ -1,0 +1,14 @@
+{
+  "name": "async-await-experiments",
+  "version": "1.0.0",
+  "description": "Some examples of async/await usage in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tim Navrotskyy",
+  "license": "ISC",
+  "dependencies": {
+    "tape": "^4.6.3"
+  }
+}
