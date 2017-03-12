@@ -4,7 +4,7 @@
   "description": "Some examples of async/await usage in JavaScript",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node ."
   },
   "author": "Tim Navrotskyy",
   "license": "ISC",
